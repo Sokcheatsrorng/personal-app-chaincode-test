@@ -1,0 +1,16 @@
+[
+
+    {
+        "invoke":"InitLedger",
+        "args":[]
+    },
+    {
+        "query":"QueryAllCars",
+        "args":[]
+    },
+    {
+        "invoke":"CreateCar",
+        "args":["CAR13","Sambo","Swift","Red","Raj"]
+    }
+
+]
